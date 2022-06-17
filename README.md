@@ -1,6 +1,6 @@
 # Список ссылок докладу «[Тепловые карты на JavaScript](https://11.codefest.ru/lecture/1799)»
 
-Презентация появятся на сайте [CodeFest](https://11.codefest.ru/lecture/1799) почти сразу после конференции, а запись должна появиться примерно в декабре 2021.
+Презентация и запись доступны на сайте [CodeFest](https://11.codefest.ru/lecture/1799).
 
 1. [Демо-стенд](https://kalyanov.github.io/idw/) с реализацией алгоритма IDW
 1. [Репозиторий демо-стенда](https://github.com/kalyanov/idw)
